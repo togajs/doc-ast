@@ -1,5 +1,7 @@
 # The DocTree Spec
 
+[![Join the chat at https://gitter.im/togajs/doctree](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/togajs/doctree?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Chat][gitter-img]][gitter-url]
 
 Many programming languages have related projects for parsing documentation out of specially-formatted comments used to generate human-readable help files and IDE tooltips. This [specification][spec] aims to standardize a representation of parsed documentation as a language-agnostic [abstract syntax tree][ast].
